@@ -1,0 +1,28 @@
+.bg-body-tertiary {
+    background-color: #fffffd !important;
+    border-bottom: 0.5px solid #e8e8e8;
+}
+a#navbarScrollingDropdown {
+    font-size: 16px;
+}
+
+.navbar-brand{
+    color: white;
+    font-family: 'Russo One';font-size: 22px;
+}
+
+/* .navbar-expand .navbar-nav{
+    font-size: 16px;
+   
+    font-weight: 600;
+} */
+
+a.nav-link {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    color: #ff851b;
+    font-size: 16px;
+   
+    font-weight: 600;
+}
+

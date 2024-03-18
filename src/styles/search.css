@@ -1,0 +1,21 @@
+/* SearchComponent.css */
+
+.search-container {
+  display: flex;
+}
+
+.search-input {
+  flex-basis: 80%;
+  padding: 8px;
+  border: 1px solid #ff851b;
+  border-radius: 4px 0px 0px 4px;
+}
+
+.search-button {
+  padding: 8px 30px;
+  background-color: #ff851b;
+  color: #fff;
+  border: none;
+  border-radius: 0px 4px 4px 0px;
+  cursor: pointer;
+}
